@@ -1,0 +1,9 @@
+#Author Syed Abbas
+#Date Created June 15, 2026
+#Version 1.0.1
+
+This file is created to fix a bug inside user-auth module
+
+This is version 1
+
+
