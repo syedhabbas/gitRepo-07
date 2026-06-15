@@ -1,8 +1,11 @@
 #Auther Syed Abbas.
 #Date Created June 15, 2026
-#Version 1.0.2
+#Version 1.0.3
 
 This is version 1 for this file.
 
 This is version 2 for this file.
 
+This is version 3 for this file., In this version we fixed the user-auth module.
+
+ 
