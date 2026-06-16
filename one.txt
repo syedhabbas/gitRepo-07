@@ -1,6 +1,6 @@
 #Auther Syed Abbas.
 #Date Created June 15, 2026
-#Version 1.0.5
+#Version 1.0.6
 
 This is version 1 for this file.
 
@@ -11,5 +11,7 @@ This is version 3 for this file., In this version we fixed the user-auth module.
 This is version 4 for this file.
 
 This is version 5 for this file.
+
+This is an update to fix feature/header-styling
 
 
