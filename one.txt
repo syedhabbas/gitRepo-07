@@ -14,4 +14,6 @@ This is version 5 for this file.
 
 This is an update to fix feature/header-styling
 
+This line is added to the file after auth*.txt is deleted.
+
 
