@@ -16,4 +16,7 @@ This is an update to fix feature/header-styling
 
 This line is added to the file after auth*.txt is deleted.
 
+security path is applied to application to prevent DOS.
+
+security patch is applied to application to protect against virus attack.
 
