@@ -1,6 +1,6 @@
 #Auther Syed Abbas.
 #Date Created June 15, 2026
-#Version 1.0.6
+#Version 1.0.7
 
 This is version 1 for this file.
 
@@ -20,3 +20,4 @@ security path is applied to application to prevent DOS.
 
 security patch is applied to application to protect against virus attack.
 
+This patch is applied for application security.
