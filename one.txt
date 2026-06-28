@@ -32,4 +32,6 @@ This is the line added after software update. version 1.0.9
 This line is updated after we patch the software., hotfix/security-patch
 Now version is 1.0.10
 
+Now we will update this file with main branch and will delete branch hotfix/security-patch
+
 
